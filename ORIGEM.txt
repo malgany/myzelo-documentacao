@@ -1,0 +1,28 @@
+CoderDocs — Bootstrap 5 v3.1 (2024-09-12)
+Autora: Xiaoying Riley / 3rd Wave Media
+Fonte oficial: https://github.com/xriley/CoderDocs-Theme
+Commit: b46485866229821d24c6ba930a4e26e56b5d3acc
+Obtido em: 2026-10-07
+Arquivo: https://codeload.github.com/xriley/CoderDocs-Theme/zip/b46485866229821d24c6ba930a4e26e56b5d3acc
+
+O CSS compilado oficial é preservado em assets/css/coderdocs.css.
+Estruturas reutilizadas: header/branding/site-logo, page-header, cards-section,
+card/card-body, docs-wrapper, docs-sidebar/docs-nav, docs-content,
+docs-article/docs-header/docs-section, footer.
+Personalizações de marca e acessibilidade: assets/css/myzelo.css.
+Navegação entre páginas, busca local e ampliação por dialog: assets/js/manual.js.
+Os plugins de código e redes sociais do exemplo não são necessários ao manual.
+
+Licença do template (README oficial):
+This Bootstrap template is made by UX/UI designer Xiaoying Riley for developers
+and is 100% FREE as long as you keep the footer attribution link.
+You do not have the rights to resell, sublicense or redistribute (even for free)
+the template on its own or as a separate attachment from any of your work.
+O crédito obrigatório é mantido em todas as páginas deste trabalho.
+
+Fontes Poppins: Google Fonts / Indian Type Foundry, licença OFL em assets/fonts.
+Fonte: https://github.com/google/fonts/tree/main/ofl/poppins
+Logotipo: símbolo existente no layout privado da myzelo.
+Capturas: aplicação local, dados fictícios, 2026-10-07.
+Sistema de referência: home-care, commit 1d2aba5e77bc77d76fc419bf12c645e28bc95ded,
+incluindo alterações locais de interface presentes na data da captura.

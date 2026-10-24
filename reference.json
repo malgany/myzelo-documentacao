@@ -1,0 +1,140 @@
+{
+  "reviewed": "2026-10-07",
+  "system_revision": "1d2aba5e77bc77d76fc419bf12c645e28bc95ded",
+  "system_local_changes": true,
+  "partial_reviews": [
+    {
+      "reviewed": "2026-10-24",
+      "scope": "Textos de cadastro por convite e confirmação de e-mail; demais fluxos e capturas mantidos na base de 07/10/2026.",
+      "system_revision": "700681250c7610b36ffea75f65ed4b81ea2a16cd",
+      "basis": "Conferência do código e das decisões da conversa; reteste manual em produção dos convites ainda pendente."
+    }
+  ],
+  "template_commit": "b46485866229821d24c6ba930a4e26e56b5d3acc",
+  "screenshots": [
+    {
+      "file": "assets/screenshots/adicionar-pessoa.jpg",
+      "sha256": "3107600d04cfd5968145e95fd8328377044a5537e40d5530b6ea6b45d16437c2"
+    },
+    {
+      "file": "assets/screenshots/agenda-validacao.jpg",
+      "sha256": "deed69b24dedd6c518bf7a3f835d3d3e3b3546b683e1482c2a51ba922c27b97c"
+    },
+    {
+      "file": "assets/screenshots/atendimento-autorizado.jpg",
+      "sha256": "916d6742c8803ecc6eef9be670d00ef3374e5e27fcef63da48eb1bbca9526a21"
+    },
+    {
+      "file": "assets/screenshots/buscando-profissional.jpg",
+      "sha256": "d821fe05e62ade82043900dc11bcfa907df6fc8ebc925f1a063a51a15580a20e"
+    },
+    {
+      "file": "assets/screenshots/cadastro.jpg",
+      "sha256": "bb353f8b04b19ea7e586849b2c94531a0dd9f3fff3c4d5530b70a5cf64b8a1cf"
+    },
+    {
+      "file": "assets/screenshots/concluido.jpg",
+      "sha256": "c44a837917aa5ff54264c63e600595d41f3a6d61ae549137da7980a514be7682"
+    },
+    {
+      "file": "assets/screenshots/confirmar-conclusao.jpg",
+      "sha256": "467cb9a33e6d3d599e0933eb8660c344fe73596d37e6cc4e905a8c89c64c19c1"
+    },
+    {
+      "file": "assets/screenshots/dados-fiscais.jpg",
+      "sha256": "4be1d9f40be54c17ad8c7950a897e6d215633d69d708428f389879b3631a28b7"
+    },
+    {
+      "file": "assets/screenshots/editar-pessoa.jpg",
+      "sha256": "fe3329e4ad6e10f3422feef0fd2f38b160fc9b785ab2445d9453db10d97910b7"
+    },
+    {
+      "file": "assets/screenshots/em-atendimento.jpg",
+      "sha256": "8a6d93125aaacc57dbd463fbf6ff30ce5313e72ba451a7dea0143a1c5d9812a5"
+    },
+    {
+      "file": "assets/screenshots/excluir-rascunho.jpg",
+      "sha256": "a8464dca1db05c19dee5722a34cda9f7e5caa78f94e55664aeb8406f708fd799"
+    },
+    {
+      "file": "assets/screenshots/historico.jpg",
+      "sha256": "d291a3e9eaf76f12f96d388592737e4ba8c2ce0a8a3c47e29ba6e89b66a2af4e"
+    },
+    {
+      "file": "assets/screenshots/login.jpg",
+      "sha256": "0647739dd1038ec63680411d2383fced4cf82eaa043132c43a81848362b1931f"
+    },
+    {
+      "file": "assets/screenshots/pagamento-pendente.jpg",
+      "sha256": "07686d9c2e9d89b0baaecafd9b660705fb35eecfa560ba2ebef31c82fc3a982a"
+    },
+    {
+      "file": "assets/screenshots/pagamento-simulado.jpg",
+      "sha256": "4ec57d32a2ea9aab2b358dc49033e61ba6be8d19a1339153d4b86ef7f50d39bc"
+    },
+    {
+      "file": "assets/screenshots/painel-inicial.jpg",
+      "sha256": "995c5bd3e66a02f58b2a61b65b68c68f76b9f88f28e661c9c3e7e8b528bb2129"
+    },
+    {
+      "file": "assets/screenshots/perfil.jpg",
+      "sha256": "d3372059d470100abe114d3cc6b50ac8cf7db70da7bf09c6a1cf98f7af136382"
+    },
+    {
+      "file": "assets/screenshots/pessoas-assistidas.jpg",
+      "sha256": "51b777dd4d14cdb08e1b0af9c10412dcedf9b8d8fc9fc4d6250534966cc70684"
+    },
+    {
+      "file": "assets/screenshots/primeiro-acesso.jpg",
+      "sha256": "abc3491ad3f1eb7f802b3d4ef8c5dfeccd58cf385c795cfe4985c738c56fe7b8"
+    },
+    {
+      "file": "assets/screenshots/rascunho.jpg",
+      "sha256": "c3b324a2773a399c48abbca0af5a535f9fb87c3efd9884aae0214d544ef201ee"
+    },
+    {
+      "file": "assets/screenshots/recuperacao-enviada.jpg",
+      "sha256": "e8fdb902998d61d812d2a30dfa5e709a611d725c6f2aba1332cb20d8767d09c2"
+    },
+    {
+      "file": "assets/screenshots/recuperar-acesso.jpg",
+      "sha256": "3433cb94d42e3cfd136707dffc290676e26047a342eb1ccc34b14845a574fc5b"
+    },
+    {
+      "file": "assets/screenshots/redefinir-senha.jpg",
+      "sha256": "def2826b4a5cba69f4d3f2e180abd459757ac00cebc62a55b6c5acd0663e5647"
+    },
+    {
+      "file": "assets/screenshots/reserva.jpg",
+      "sha256": "19704af4316d95894f5ed52506d57a15f5032d0b1844414922681b55c1ea41c1"
+    },
+    {
+      "file": "assets/screenshots/revisao-email-pendente.jpg",
+      "sha256": "5ab1b880cc2ff2997703b3e3b728fecb2b25f88b9b5370ccfc8652ecf3aa91ea"
+    },
+    {
+      "file": "assets/screenshots/seguranca.jpg",
+      "sha256": "bd088bb2bdb86c2908f9ecd22439a201d32e4d9dff056b21d93fd10bde0358c9"
+    },
+    {
+      "file": "assets/screenshots/solicitacao-1-pessoa.jpg",
+      "sha256": "848ee3cca3394d03b17e9ef1d9d5e8f3cac2395965b1d83e590ebdf6a95a3664"
+    },
+    {
+      "file": "assets/screenshots/solicitacao-2-endereco.jpg",
+      "sha256": "18be45e7691f303320a25ec85438d4ecafcf788dea77be5f5ef703d121546abe"
+    },
+    {
+      "file": "assets/screenshots/solicitacao-3-agenda.jpg",
+      "sha256": "e531d5f1a10088ba5685ee8985cb502c145bf42f6daff1347489f76d91977cf3"
+    },
+    {
+      "file": "assets/screenshots/solicitacao-4-necessidades.jpg",
+      "sha256": "b61e48a1016506a4586e0d811839c2b9937b19d25bf40ed143bfcc7a68393061"
+    },
+    {
+      "file": "assets/screenshots/solicitacao-5-revisao.jpg",
+      "sha256": "9e9e5e1a1034741c28ac6bf82262c79e092fa01c77a01dd1db04ade041f1891d"
+    }
+  ]
+}
